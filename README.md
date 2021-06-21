@@ -1,6 +1,6 @@
 # Application live 
 
-https://saka007.github.io/customer-app/
+https://afsarkhan10182.github.io/customer-app/
 
 # CustomerApp
 
